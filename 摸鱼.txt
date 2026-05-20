@@ -1,5 +1,5 @@
 {
-  "spider": "https://2025.xxxi.dpdns.org/https://raw.githubusercontent.com/Wxx118/TVBox/refs/heads/master/jar/摸鱼.jar",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/youhunwl/TVBox/master/jar/摸鱼.jar",
   "wallpaper": "",
   "logo": "",
   "warningText": "摸鱼儿",
@@ -1359,7 +1359,7 @@
     {
       "name": "全是气氛组",
       "type": 0,
-      "url": "https://www.iyouhun.com/tv/zb",
+      "url": "",
       "playerType": 1,
       "ua": "okhttp/3.15"
     }
@@ -1565,14 +1565,4 @@
     "static-mozai.4gtv.tv"
   ]
 }
-
-
-
-
-
-
-
-
-
-
 
