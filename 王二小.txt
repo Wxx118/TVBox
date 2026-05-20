@@ -6,13 +6,13 @@
   "sites": [
     {
 	  "key":"Douban",
-	  "name":"🐮【公众号：游魂网络】🐮",
+	  "name":"🐮【王二小】🐮",
 	  "type": 3, 
 	  "api": "csp_DoubanGuard",
 	  "searchable": 0,
 	  "quickSearch": 0,
 	  "filterable": 0,
-      "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729769265800/douban.json"
+      "ext": "https://2025.xxxi.dpdns.org/https://raw.githubusercontent.com/Wxx118/TVBox/refs/heads/master/api/douban.json"
 	},
     {
 	  "key":"Doubana",
@@ -22,7 +22,7 @@
 	  "searchable": 0,
 	  "quickSearch": 0,
 	  "filterable": 0,
-      "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729769265800/douban.json"
+      "ext": "https://2025.xxxi.dpdns.org/https://raw.githubusercontent.com/Wxx118/TVBox/refs/heads/master/api/douban.json"
 	},
 	{
       "key": "Wexconfig",
