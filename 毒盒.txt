@@ -1,6 +1,6 @@
 {
   "spider": "https://2025.xxxi.dpdns.org/https://raw.githubusercontent.com/Wxx118/TVBox/refs/heads/master/jar/毒盒.jar",
-  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "wallpaper": "",
   "warningText": "【毒盒影视】提示：📢长期维护切勿贩卖",
 "lives":[
         {
