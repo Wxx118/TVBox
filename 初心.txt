@@ -264,20 +264,6 @@
             "playable": 1
         }
     ],
-  "lives": [
-    {
-        "name": "游魂网,
-        "type": 0,
-        "playerType": 2,
-        "url": "https://www.iyouhun.com/tv/zb",
-    },
-    {
-      "name": "综合直播",
-      "type": 0,
-      "playerType": 2,
-      "url": "https://ds65.tv1288.xyz",
-    }
-  ],
     "parses": [
         {
             "name": "夜幕",
