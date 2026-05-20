@@ -1,7 +1,7 @@
 {
   "spider": "https://2025.xxxi.dpdns.org/https://raw.githubusercontent.com/Wxx118/TVBox/refs/heads/master/jar/OK.jar",
-  "wallpaper":"http://127.0.0.1:9978/proxy?do=wall",
-  "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
+  "wallpaper":"",
+  "logo":"",
   "sites": [
     {"key":"豆瓣","name":"🤓公众号┃游魂网络","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
     {"key":"配置中心","name":"👨‍🍳‍配置┃中心","type":3,"api":"csp_ConfigGuard","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}},
@@ -140,16 +140,8 @@
   "doh":[{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
   "ads":["mozai.4gtv.tv"],
   "lives":[
-    {"name":"电视MG","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745115533242/mgqn.txt","playerType":2,"timeout":10},
-    {"name":"国内Live","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740592110565/zq.fif.txt","playerType":2,"timeout":10,"catchup":{"type":"append","source":"&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
-    {"name":"国内移动","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739616589773/zq.txt","playerType":2,"timeout":10,"catchup":{"type":"append","source":"&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
-    {"name":"范明明","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","playerType":2,"timeout":10},
-    {"name":"电视Live","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&u=Gather","playerType":2,"ua": "okhttp/3.15","timeout":10},
-    {"name":"江苏移动","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744201662209/jjssyydd.txt","playerType":2,"timeout":10},
-    {"name":"一起看","type":3,"api":"csp_HuyaGuard","url":"yqk","playerType":2,"timeout":10},
-    {"name":"肥羊B站直播","type":3,"api":"csp_FeiyangGuard","url":"bililive.m3u","timeout":10,"ua":"okhttp/3.15"},
-    {"name":"肥羊斗鱼一起看","type":3,"api":"csp_FeiyangGuard","url":"douyuyqk.m3u","timeout":10,"ua":"okhttp/3.15"},
-    {"name":"肥羊YY轮播","type":3,"api":"csp_FeiyangGuard","url":"yylunbo.m3u","timeout":10,"ua":"okhttp/3.15"}
+    {"name":"游魂网","type":0,"url":"https://www.iyouhun.com/tv/zb","playerType":2,"timeout":10},
+    {"name":"综合直播","type":0,"url":"https://ds65.tv1288.xyz","playerType":2,"timeout":10}
   ],
   "ijk":[
     {"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},
