@@ -1356,12 +1356,6 @@
     }
   ],
   "lives": [
-        {
-            "name": "综合直播",
-            "type": 0,
-            "url": "https://ds65.tv1288.xyz,
-            "playerType": 1
-        },
     {
       "name": "游魂网",
       "type": 0,
