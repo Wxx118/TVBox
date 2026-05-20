@@ -1,8 +1,8 @@
 {
  "spider": "https://2025.xxxi.dpdns.org/https://raw.githubusercontent.com/Wxx118/TVBox/refs/heads/master/jar/王二小.jar",
 
-  "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
-  "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716818643045/wexfnw.gif",
+  "wallpaper": "",
+  "logo": "",
   "sites": [
     {
 	  "key":"Douban",
@@ -1043,9 +1043,9 @@
   ],
    "lives": [	
        {
-        "name": "范明明",
+        "name": "游魂网",
         "type": 0,
-        "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
+        "url": "https://www.iyouhun.com/tv/zb",
         "playerType": 1
     }
  ]  
