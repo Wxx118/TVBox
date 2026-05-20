@@ -1357,10 +1357,11 @@
   ],
   "lives": [
     {
-      "name": "游魂网",
+      "name": "全是气氛组",
       "type": 0,
       "url": "https://www.iyouhun.com/tv/zb",
-      "playerType": 1
+      "playerType": 1,
+      "ua": "okhttp/3.15"
     }
   ],
   "flags": [
