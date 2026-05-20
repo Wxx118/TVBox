@@ -63,7 +63,7 @@
 {"key":"cc","name":"请勿相信视频中广告","type":3,"api":"csp_XPathGuard","searchable":1,"quickSearch":0,"changeable":0}
 ],
 
-"logo":"https://cdn.wmpvp.com/steamWeb/B96F868DE45B45D690B5F9F490D0BC60-1745866248445.gif",
+"logo":"",
 //"logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738054786827/wushi3.gif",
 "lives":[
 {"name":"游魂网","type":0,"url":"https://www.iyouhun.com/tv/zb","playerType":2},
