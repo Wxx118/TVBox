@@ -7,6 +7,7 @@
             "name": "游魂网",
             "type": 0,
             "url": "https://www.iyouhun.com/tv/zb",
+            "playerType": 1
         },
     {
       "name": "猫TV线路(EXO)",
@@ -21,6 +22,7 @@
       "name": "综合直播",
       "type": 0,
       "url": "https://ds65.tv1288.xyz",
+      "playerType": 1
     }
 ],
   "sites": [
